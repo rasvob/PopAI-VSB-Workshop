@@ -166,3 +166,4 @@ config.local.yaml
 .env
 WIP_*
 sd_output.png
+glove.*
