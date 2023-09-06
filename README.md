@@ -15,6 +15,7 @@ The exercise will cover these topics:
 * Vector representation of text data and searching for similar words using vector distance 
 * Design of own deep learning model for generating "Harry Potter"-like text using Keras framework from scratch
 
+### 
 > [Jupyter Notebook](https://github.com/rasvob/PopAI-VSB-Workshop/blob/main/ws_01.ipynb)
 
 > [Google Colab](https://colab.research.google.com/github/rasvob/PopAI-VSB-Workshop/blob/main/ws_01.ipynb)
