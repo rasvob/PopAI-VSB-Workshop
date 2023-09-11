@@ -167,3 +167,5 @@ config.local.yaml
 WIP_*
 sd_output.png
 glove.*
+checkpoint*
+weights.*
